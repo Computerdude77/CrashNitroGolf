@@ -12,5 +12,5 @@ If you want to test the game and tell me any errors, I highly suggest playing th
 
 Insturctions after testing:
 
-Download Fiddler (https://www.telerik.com/download/fiddler) and import NitroGolf.farx into it. Use a web browser that supports Shockwave (installer:https://mega.nz/#!B1ITjaDK!7Lq6wICa0Ra7z5GyC0QEEm_jp2FGsgJyOAzbVorjjhY) and go to this link:
+Download Fiddler (https://www.telerik.com/download/fiddler) and import NitroGolf.farx into it. Use a web browser that supports Shockwave (installer: https://mega.nz/#!B1ITjaDK!7Lq6wICa0Ra7z5GyC0QEEm_jp2FGsgJyOAzbVorjjhY) and go to this link:
 http://web.archive.org/web/20030808144601/http://www.candystand.com/GAMES/cb_shock_cbmg.htm. Play the game and report any errors in the "Issues" section.
