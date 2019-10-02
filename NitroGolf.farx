@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2019-10-02T14:13:25.3636256-05:00" FiddlerVersion="5.0.20192.25091">
+  <State Enabled="true" Fallthrough="true" UseLatency="true">
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole1.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole1.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole1slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole1slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole2.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole2.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole2slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole2slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole3.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole3.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole3slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole3slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole4.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole4.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole4slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole4slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole5.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole5.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole5slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole5slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole6.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole6.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole6slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole6slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole7.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole7.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole7slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole7slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole8.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole8.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole8slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole8slope.gif" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole9.jpg" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole9.jpg" Enabled="true" />
+    <ResponseRule Match="EXACT:http://web.archive.org/shock/cbmgassets/hole9slope.gif" Action="https://raw.githubusercontent.com/Computerdude77/CrashNitroGolf/master/main/hole9slope.gif" Enabled="true" />
+  </State>
+</AutoResponder>
