@@ -14,3 +14,5 @@ Insturctions to test:
 
 Download Fiddler (https://www.telerik.com/download/fiddler) and import NitroGolf.farx into it. Use a web browser that supports Shockwave (installer: https://mega.nz/#!B1ITjaDK!7Lq6wICa0Ra7z5GyC0QEEm_jp2FGsgJyOAzbVorjjhY) and go to this link:
 http://web.archive.org/web/20030808144601/http://www.candystand.com/GAMES/cb_shock_cbmg.htm. Play the game and report any errors in the "Issues" section.
+
+Update: This has just sat around for ~2 years and has served no real purpose since it has been started, so I am going to archive it. If you are curious, someone else has basically done the work of recreating the game from scratch using some of the same methods this did, and it is in Flashpoint now (https://bluemaxima.org/flashpoint/), so if you want to play a basically perfect version, go download that and play it. The documentation was even said in the Flashpoint server itself, so if you want to see how to make custom levels, go there. Peace out!
